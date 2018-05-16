@@ -1,0 +1,11 @@
+--2018-05-14 21:19:24--  https://api.cosmicjs.com/v1/static-web-site-personal?pretty=true
+Resolving api.cosmicjs.com (api.cosmicjs.com)... 34.208.61.118
+Connecting to api.cosmicjs.com (api.cosmicjs.com)|34.208.61.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 22245 (22K) [application/json]
+Saving to: ‘static-web-site-personal?pretty=true’
+
+static-web-site-personal?pretty   0%[                                                       ]       0  --.-KB/s               static-web-site-personal?pretty 100%[======================================================>]  21.72K  --.-KB/s    in 0.001s  
+
+2018-05-14 21:19:25 (20.7 MB/s) - ‘static-web-site-personal?pretty=true’ saved [22245/22245]
+
