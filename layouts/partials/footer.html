@@ -2,16 +2,17 @@
     <div class="container mt-20 pb-60 pt-20">
       <div class="row">
         <div class="col-sm-8">
-          <div class="mb-30">
+         
+          <div class="mb-20">
+            &copy; {{ year }} {{ cosmic.object.footer.metafield.company_title.value }}
+          </div>
+        </div>
+ <div class="mb-30">
             <a href="https://cosmicjs.com" target="_blank">
               <img class="pull-left mr-15 relative" src="https://cosmicjs.com/images/logo.svg" width="28" height="28">
               <span class="powered-by">Proudly powered by Cosmic JS</span>
             </a>
           </div>
-          <div class="mb-20">
-            &copy; {{ year }} {{ cosmic.object.footer.metafield.company_title.value }}
-          </div>
-        </div>
         <div class="col-sm-4">
           <div class="mb-20">
             {{# cosmic.object.footer.metafield.github.value }}
@@ -19,11 +20,14 @@
                 <i class="fa fa-github social-icon"></i>
               </a>
             {{/ cosmic.object.footer.metafield.github.value }}
-            {{# cosmic.object.footer.metafield.twitter.value }}
+            {{# cosmic.object.footer.metafield.linkedin.value }}
               <a class="mr-10" href="{{ . }}" target="_blank">
-                <i class="fa fa-twitter social-icon"></i>
+                <i class="fa fa-linkedin social-icon"></i>
               </a>
-            {{/ cosmic.object.footer.metafield.twitter.value }}
+            {{/ cosmic.object.footer.metafield.linkedin.value }}
+
+
+           
           </div>
           <div>
             {{# cosmic.object.footer.metafield.lorem_ipsum.value }}

@@ -16,7 +16,7 @@ a:hover {
   position: relative;
   z-index: 1;
   width: 100%;
-  height: 500px;
+  height: 250px;
   background-position: center;
   background-size: cover;
   @media(max-width: 768px) {
@@ -27,7 +27,7 @@ a:hover {
   position: relative;
   z-index: 3;
   color: #fff;
-  padding-top: 140px;
+  padding-top: 1.25em;
   h1 {
     font-size: 100px;
   }
@@ -50,6 +50,12 @@ a:hover {
   border-radius: 0;
   border: none;
 }
+
+.navbar-inverse .navbar-brand{
+   font-family: 'Montserrat';
+   color: #fff;
+   text-shadow: 2px 2px #29abe2;
+} 
 .overlay {
   z-index: 2;
   background-color: #000;
@@ -76,6 +82,12 @@ a:hover {
 }
 .menu-close {
   font-size: 30px;
+}
+
+.work-img{
+  display: block;
+  margin: 0 auto;
+  width: 50%;
 }
 
 // Footer
