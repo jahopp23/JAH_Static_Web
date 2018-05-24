@@ -16,7 +16,8 @@
     "mkdirp": "^0.5.1",
     "mv": "^2.1.1",
     "now": "^11.1.12",
-    "now-cli": "0.0.0"
+    "now-cli": "0.0.0",
+    "npm": "^6.0.1"
   },
   "scripts": {
     "start": "node app.js"
