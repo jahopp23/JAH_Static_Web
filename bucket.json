@@ -1,1 +1,682 @@
-{"bucket":{"_id":"5afa3e56c4f4fe66c8fa15e6","slug":"john-allen-hopper","title":"John Allen Hopper","object_types":[{"title":"Pages","slug":"pages","singular":"Page","metafields":[{"value":"","key":"headline","title":"Headline","type":"text","children":null},{"value":"","key":"hero","title":"Hero","type":"file","children":null}],"options":{"slug_field":1,"content_editor":1},"order":2},{"title":"Globals","slug":"globals","singular":"Global","metafields":[],"options":{"slug_field":0,"content_editor":0},"order":1},{"title":"Analytics","slug":"analytics","singular":"Analytic","metafields":[{"title":"View ID","key":"view_id","type":"text","value":""}]}],"links":[],"objects":[{"_id":"5b047c398abdf16a8427a18c","old_id":"5b047c398abdf16a8427a18b","bucket":"5afa3e56c4f4fe66c8fa15e6","slug":"google-analytics-view-id-f88cb480-5dfd-11e8-a1ae-3923d095aa54","title":"Google Analytics View ID","content":"","metafields":[{"value":"","key":"view_id","title":"View ID","type":"text"}],"type_slug":"analytics","created":"2018-05-22T20:23:21.288Z","created_at":"2018-05-22T20:23:21.288Z","user_id":"5af892858925dc4692f74dca","options":null,"order":null},{"_id":"5b047e2d7b7b8546805a0c53","old_id":"5b047e2d7b7b8546805a0c52","bucket":"5afa3e56c4f4fe66c8fa15e6","slug":"google-analytics-view-id-22a25df0-5dff-11e8-8b90-49cb251195d1","title":"Google Analytics View ID","content":"","metafields":[{"value":"","key":"view_id","title":"View ID","type":"text"}],"type_slug":"analytics","created":"2018-05-22T20:31:41.391Z","created_at":"2018-05-22T20:31:41.391Z","user_id":"5af892858925dc4692f74dca","options":null,"order":null},{"_id":"5b0442018562ee4717b6b24d","old_id":"5b0442018562ee4717b6b24c","bucket":"5afa3e56c4f4fe66c8fa15e6","slug":"contact-form","title":"Contact Form","content":"","metafields":[{"required":true,"value":"","key":"form_elements","title":"Form Elements","type":"parent","children":[{"required":true,"value":"","key":"name","title":"Name","type":"text","children":false,"text":true,"textarea":false,"has_length_edit":true,"file":false,"repeater":false,"parent":false,"html-textarea":false,"is_object":false,"is_objects":false},{"required":true,"value":"","key":"email","title":"Email","type":"text","children":false,"text":true,"textarea":false,"has_length_edit":true,"file":false,"repeater":false,"parent":false,"html-textarea":false,"is_object":false,"is_objects":false},{"required":true,"value":"","key":"company","title":"Company","type":"text","children":false,"text":true,"textarea":false,"has_length_edit":true,"file":false,"repeater":false,"parent":false,"html-textarea":false,"is_object":false,"is_objects":false},{"required":true,"value":"","key":"message","title":"Message","type":"textarea","children":false,"text":false,"textarea":true,"has_length_edit":true,"file":false,"repeater":false,"parent":false,"html-textarea":false,"is_object":false,"is_objects":false}],"has_length_edit":false,"parent":true,"object":true},{"value":"Submit Form","key":"submit_button_text","title":"Submit Button Text","type":"text","children":false,"has_length_edit":true,"parent":false},{"value":"Message sent","key":"success_message_title","title":"Success Message Title","type":"text","children":false,"has_length_edit":true,"parent":false},{"value":"Thank you for sending your request.  We will be reaching out to you soon!","key":"success_message_body","title":"Success Message Body","type":"text","children":false,"has_length_edit":true,"parent":false},{"value":"rocket","key":"success_message_icon","title":"Success Message Icon","type":"text","children":false,"has_length_edit":true,"parent":false}],"type_slug":null,"created":"2018-05-22T16:14:57.969Z","created_at":"2018-05-22T16:14:57.969Z","user_id":"5af892858925dc4692f74dca","options":null,"order":null},{"_id":"5b0443a1867400658e8a381b","slug":"rachel","title":"rachel","content":null,"metafields":[{"required":true,"value":"rachel","key":"name","title":"Name","type":"text","children":false,"text":true,"textarea":false,"has_length_edit":true,"file":false,"repeater":false,"parent":false,"html-textarea":false,"is_object":false,"is_objects":false},{"required":true,"value":"jahopp@gmail.com","key":"email","title":"Email","type":"text","children":false,"text":true,"textarea":false,"has_length_edit":true,"file":false,"repeater":false,"parent":false,"html-textarea":false,"is_object":false,"is_objects":false},{"required":true,"value":"the illuminati","key":"company","title":"Company","type":"text","children":false,"text":true,"textarea":false,"has_length_edit":true,"file":false,"repeater":false,"parent":false,"html-textarea":false,"is_object":false,"is_objects":false},{"required":true,"value":"hello we want you to work for us. ","key":"message","title":"Message","type":"textarea","children":false,"text":false,"textarea":true,"has_length_edit":true,"file":false,"repeater":false,"parent":false,"html-textarea":false,"is_object":false,"is_objects":false}],"bucket":"5afa3e56c4f4fe66c8fa15e6","type_slug":"form-submissions","created":"2018-05-22T16:21:53.281Z","created_at":"2018-05-22T16:21:53.281Z","modified_at":"2018-05-22T16:21:53.281Z","user_id":null,"status":"published","locale":null,"published_at":"2018-05-22T16:21:53.281Z"},{"_id":"5b02603f961c2135841c6277","old_id":"5b02603f961c2135841c6276","bucket":"5afa3e56c4f4fe66c8fa15e6","slug":"google-analytics-view-id","title":"Google Analytics View ID","content":"","metafields":[{"value":175876440,"key":"view_id","title":"View ID","type":"text","children":null}],"type_slug":"analytics","created":"2018-05-21T05:59:27.593Z","created_at":"2018-05-21T05:59:27.593Z","user_id":"5af892858925dc4692f74dca","options":{"content_editor":1,"slug_field":1},"order":null,"modified_at":"2018-05-22T20:47:03.716Z","modified_by":"5af892858925dc4692f74dca","status":"published","publish_at":null,"published_at":"2018-05-22T20:47:03.717Z"},{"_id":"5b0325fa74885e46e655f9dc","order":0,"slug":"blog","title":"Blog","content":"<h2>The Future of JavaScript: Behind the Platform of CosmicJS</h2>","metafields":[{"value":"","key":"headline","title":"Headline","type":"text","children":null},{"value":"","key":"hero","title":"Hero","type":"file","children":null}],"bucket":"5afa3e56c4f4fe66c8fa15e6","type_slug":"pages","created_at":"2018-05-21T20:03:06.850Z","created_by":"5af892858925dc4692f74dca","created":"2018-05-21T20:03:06.850Z","user_id":"5af892858925dc4692f74dca","options":{"content_editor":1,"slug_field":1},"status":"published","modified_at":"2018-05-21T20:03:10.300Z","modified_by":"5af892858925dc4692f74dca","publish_at":null,"published_at":"2018-05-21T20:03:10.300Z"},{"_id":"5afa3ee86327325fd2ab1310","old_id":"580552e1fc1225e21600327b","bucket":"5afa3e56c4f4fe66c8fa15e6","slug":"header","title":"Header","content":"","metafields":[{"repeater_fields":[{"title":"Title","key":"title","value":"","type":"text"},{"title":"Link","key":"link","value":"","type":"text"}],"value":"Home","key":"nav_links","title":"Nav Links","type":"repeater","children":[{"type":"repeating_item","children":[{"title":"Title","key":"title","value":"Home","type":"text","required":false},{"title":"Link","key":"link","value":"/","type":"text","required":false}]},{"type":"repeating_item","children":[{"title":"Title","key":"title","value":"About","type":"text","required":false},{"title":"Link","key":"link","value":"/about","type":"text","required":false}]},{"type":"repeating_item","children":[{"title":"Title","key":"title","value":"Portfolio","type":"text","required":false},{"title":"Link","key":"link","value":"/portfolio","type":"text","required":false}]},{"type":"repeating_item","children":[{"title":"Title","key":"title","value":"Contact","type":"text","required":false},{"title":"Link","key":"link","value":"/contact","type":"text","required":false}]},{"type":"repeating_item","children":[{"title":"Blog","key":"blog","value":"/blog","type":"text","required":false}]}]},{"value":"John Allen Hopper","key":"site_title","title":"Site Title","type":"text","children":null},{"value":"f5dfec00-99fc-11e6-8103-8117827beac1-lightning-32x32.png","key":"favicon_32","title":"Favicon 32","type":"file","children":null},{"value":"1087f520-99fd-11e6-8103-8117827beac1-lightning-16x16.png","key":"favicon_16","title":"Favicon 16","type":"file","children":null}],"type_slug":"globals","created":"2016-10-17T22:38:25.011Z","created_at":"2016-10-17T22:38:25.011Z","modified_at":"2018-05-21T20:05:21.191Z","user_id":"5af892858925dc4692f74dca","options":{"content_editor":0,"slug_field":0},"order":1,"status":"published","published_at":"2018-05-21T20:05:21.191Z","modified_by":"5af892858925dc4692f74dca","publish_at":null},{"_id":"5afa3ee86327325fd2ab1312","old_id":"58066386fc1225e2160053c7","bucket":"5afa3e56c4f4fe66c8fa15e6","slug":"footer","title":"Footer","content":"","metafields":[{"value":"John Allen Hopper","key":"company_title","title":"Company Title","type":"text","children":null},{"value":"https://github.com/jahopp23","key":"github","title":"GitHub","type":"text","children":null},{"value":"https://twitter.com/jahwebulariam","key":"twitter","title":"Twitter","type":"text","children":null},{"value":"https://www.linkedin.com/in/john-allen-hopper-874424aa/","key":"linkedin","title":"Linkedin","type":"text","children":null},{"value":"https://www.upwork.com/freelancers/~011bad8c95aa82c30e","key":"upwork","title":"Upwork","type":"text","children":null}],"type_slug":"globals","created":"2016-10-18T18:01:42.625Z","created_at":"2016-10-18T18:01:42.625Z","modified_at":"2018-05-24T09:21:00.435Z","user_id":"5af892858925dc4692f74dca","options":{"content_editor":0,"slug_field":0},"order":2,"status":"published","published_at":"2018-05-24T09:21:00.435Z","modified_by":"5af892858925dc4692f74dca","publish_at":null},{"_id":"5afa3ee86327325fd2ab130f","old_id":"580551ccfc1225e216003251","bucket":"5afa3e56c4f4fe66c8fa15e6","slug":"home","title":"Home","content":"<p>&quot;I am a Full Stack Web Developer in the DFW area. My concentration is on UI/UX coding for the front-end and developing user functions with server or client side programming. I love to utilize creativity, technical skill, and problem solving when developing applications. My pursuit to be a coder has led me to work professionally in a variety of environments, including advertising and online retail. &nbsp;I am currently seeking jobs as a full-time, part-time, freelance, and/or remote Full Stack Web Developer, Front-End Web Developer, or Application Developer. To learn more, visit the <a href=\"/about\">about</a> page.&quot;</p><p>Please visit the <a href=\"/portfolio\">portfolio</a> page to view projects.</p><div class=\"card\"><div class=\"card-block\"><h4 class=\"card-title\"><br></h4><h4 class=\"card-title\">Full Stack Programming</h4><p class=\"card-text\">Web applications coded through modern frameworks, such as, Node, Angular, React, Rails, as well as, Cloud and API tools.</p></div></div><div class=\"card\"><img class=\"card-img-top fr-fic fr-dii\" src=\"...\" alt=\"\"><h4 class=\"card-title\">UI Design</h4><p class=\"card-text\">Implementation of the latest interface CSS design, Sass compilation, responsiveness, mobile compatibility, and user interactivity.</p></div><div class=\"card\"><img class=\"card-img-top fr-fic fr-dii\" src=\"...\" alt=\"\"><img class=\"card-img-top fr-fic fr-dii\" src=\"...\" alt=\"\"><div class=\"card-block\"><h4 class=\"card-title\">UX Research</h4><p class=\"card-text\">Building effective applications by gearing functionality towards user demands and target audience.</p></div></div>","metafields":[{"value":"Welcome!","key":"headline","title":"Headline","type":"text","children":null},{"value":"bcb45970-94bb-11e6-b575-65f510fd43cc-Earth-From-Space-Space.jpg","key":"hero","title":"Hero","type":"file","children":null},{"key":"flash-text","title":"flash-text","type":"html-textarea","children":null,"value":"<h1>JAH</h1><h1>FULL</h1><h1>STACK</h1><h1>WEB</h1>"}],"type_slug":"pages","created":"2016-10-17T22:33:48.542Z","created_at":"2016-10-17T22:33:48.542Z","modified_at":"2018-05-24T10:24:46.216Z","user_id":"5af892858925dc4692f74dca","options":{"content_editor":1,"slug_field":1},"order":2,"status":"published","published_at":"2018-05-24T10:24:46.217Z","modified_by":"5af892858925dc4692f74dca","publish_at":null},{"_id":"5afa3ee86327325fd2ab1311","old_id":"580551eafc1225e216003255","bucket":"5afa3e56c4f4fe66c8fa15e6","slug":"about","title":"About","content":"<div>At The University of North Texas studying anthropology, my focus was on culture, technology, digital revolution, media, and social change. As my anthropological knowledge increased, as did my interest in computer science, programming, and software. Surely, a social scientist of humanity and culture would make an excellent developer of applications. <br><br>After receiving my B.A. from UNT, I enrolled in a professional software development training program at Coding Dojo Dallas. Here, I learned how to truly construct full stack software applications for the modern web. Using the AGILE development process,\r\nI built web applications in HTML, CSS, Python, JavaScript, and Ruby. The majority of applications I have built have been based on the model-view-controller architecture, RESTful routes, and responsive web design. During my time at Coding Dojo,\r\nI earned certificates for both HTML/CSS Website Design (Yellow Belt), and Ruby on Rails Full Stack Web Application (Black Belt).&nbsp;</div><p><br></p><p>&nbsp;I have worked as a developer for a local startup company using AngularJS, built website templates for companies with Bootstrap and NodeJS, served as front-end web developer at an award-winning advertising\r\nagency, taught coding/programming to kids K-5th using tools like Scratch and Python, and managed website CMS platforms (Shopify, Amazon, Etsy, Wordpress) for an online retail company. &nbsp;</p><p>I am a Full Stack Web Developer with a concentration in coding for front-end UI/UX. I can design web applications using wireframing, build the front-end view templates, construct the web server, and connect to databases, such as, MongoDB, PostgreSQL, and MYSQL, etc.\r\nIt is my passion to transform concepts into reality with coding, problem solving, and teamwork.&nbsp;</p><p data-empty=\"true\"><br></p><h3>Resume</h3><p><a class=\"fr-file\" href=\"https://s3-us-west-2.amazonaws.com/cosmicjs/242a45b0-5cbb-11e8-8210-85f020a15a45-John_Allen_Hopper_Resume_Coding_Web_Developer_05_21_2018.zip\">John_Allen_Hopper_Resume_Coding_Web_Developer_05_21_2018.zip</a></p><p><br></p>","metafields":[{"value":"My Journey Begins...","key":"headline","title":"Headline","type":"text","children":null},{"value":"c3a7fb60-94bb-11e6-b575-65f510fd43cc-Galaxy.jpg","key":"hero","title":"Hero","type":"file","children":null}],"type_slug":"pages","created":"2016-10-17T22:34:18.722Z","created_at":"2016-10-17T22:34:18.722Z","modified_at":"2018-05-24T10:31:17.736Z","user_id":"5af892858925dc4692f74dca","options":{"content_editor":1,"slug_field":1},"order":3,"status":"published","published_at":"2018-05-24T10:31:17.736Z","modified_by":"5af892858925dc4692f74dca","publish_at":null},{"_id":"5afa3ee86327325fd2ab1313","old_id":"5805521bfc1225e21600325b","bucket":"5afa3e56c4f4fe66c8fa15e6","slug":"contact","title":"Contact","content":"<p>Please contact me about job opportunities in full stack web development, front-end web development, application development, and UI/UX. I am open to full-time, part-time, freelance, and/or remote job roles.&nbsp;</p><p><a href=\"mailto:jahopp@gmail.com?subject=JAH%20Website%20Contact%20Email%20\"><button class=\"btn btn-primary\" type=\"button\">Email Me Directly</button></a></p><p><br></p><h4>Send Contact Form Message</h4><p><iframe src=\"https://4527b010-5ddb-11e8-a928-b105a18314c7.cosmicext.com/?bucket_slug=john-allen-hopper&form=true\" height=\"700\" frameborder=\"0\" width=\"100%\"></iframe></p><p><br></p><p><br></p><p><br></p>","metafields":[{"value":"Contact Me","key":"headline","title":"Headline","type":"text","children":null},{"value":"cbd4e0a0-94bb-11e6-b575-65f510fd43cc-outer-space-1920x1200-hd-wallpaper.jpg","key":"hero","title":"Hero","type":"file","children":null}],"type_slug":"pages","created":"2016-10-17T22:35:07.275Z","created_at":"2016-10-17T22:35:07.275Z","modified_at":"2018-05-22T16:57:47.017Z","user_id":"5af892858925dc4692f74dca","options":{"content_editor":1,"slug_field":1},"order":4,"status":"published","published_at":"2018-05-22T16:57:47.017Z","modified_by":"5af892858925dc4692f74dca","publish_at":null},{"_id":"5afa3ee86327325fd2ab1314","old_id":"5807904a0250d77943000227","bucket":"5afa3e56c4f4fe66c8fa15e6","slug":"portfolio","title":"Portfolio","content":"<p style=\"text-align: center;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style=\"font-size: 12px;\"><img class=\"work-img fr-fic fr-dii\" src=\"https://cosmic-s3.imgix.net/29144050-5c8c-11e8-9276-0b00f900a0a0-veronicaannphoto.png\" style=\"width: 85%;\"></span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: justify;\"><span style=\"font-size: 14px;\">Veronica Ann Photography<br></span></p><p style=\"text-align: justify;\"><span style=\"font-size: 14px;\"><a href=\"https://veronicaannphotography.com\">https://veronicaannphotography.com</a></span></p><p style=\"text-align: justify;\"><span style=\"font-size: 14px;\">Freelance</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 14px;\">HTML5, CSS3, Bootstrap, NodeJS, ExpressJS, NowJS</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 14px;\">2017</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 12px;\"><img src=\"https://cosmic-s3.imgix.net/289d3b90-5c8c-11e8-9276-0b00f900a0a0-mexene.png\" style=\"width: 85%;\" class=\"fr-fic fr-dib\"></span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: justify;\"><span style=\"font-size: 14px;\">Mexene Chili Powder&nbsp;</span></p><p style=\"text-align: justify;\"><a href=\"http://mexene.com\"><span style=\"font-size: 14px;\">https://mexene.com</span></a></p><p style=\"text-align: justify;\"><span style=\"font-size: 14px;\">Johnson &amp; Sekin Advertising Agency</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 14px;\">Front End Web Developer</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 14px;\">2017</span></p><p style=\"text-align: justify;\"><br></p><p><span style=\"font-size: 11px;\"><a href=\"https://mexene.com\"></a></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src=\"https://cosmic-s3.imgix.net/28bad5b0-5c8c-11e8-9276-0b00f900a0a0-teasdale.png\" style=\"width: 85%;\" class=\"fr-fic fr-dib\"></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: justify;\">Teasdale Latin Foods&nbsp;</p><p style=\"text-align: justify;\"><a href=\"https://teasdalelatinfoods.com\"></a><a href=\"http://teasdalelatinfoods.com\">https://teasdalelatinfoods.com</a></p><p style=\"text-align: justify;\">Johnson &amp; Sekin Advertising Agency&nbsp;</p><p style=\"text-align: justify;\">Front End Web Developer</p><p style=\"text-align: justify;\">2017</p><p data-empty=\"true\" style=\"text-align: justify;\"><br></p><p style=\"text-align: center;\"><br></p><p><img src=\"https://cosmic-s3.imgix.net/94796280-5c8c-11e8-8bba-55a128bf3d26-Screenshot from 2018-05-16 20-01-09.png\" style=\"width: 85%;\" class=\"fr-fic fr-dib\"></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: justify;\">SuperGroups - Ruby on Rails Black Belt Exam</p><p style=\"text-align: justify;\"><a href=\"https://github\"></a><a href=\"https://github.com/jahopp23/SuperGroups\">https://github.com/jahopp23/SuperGroups</a></p><p style=\"text-align: justify;\">Coding Dojo&nbsp;</p><p style=\"text-align: justify;\">Ruby on Rails version 5.0.0&nbsp;</p><p style=\"text-align: justify;\">2017</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Additional:&nbsp;</p><p style=\"text-align:center;\"><a href=\"https://github.com/jahopp23/React-Weather-API\">ReactJS Weather API, 2018</a></p><p style=\"text-align:center;\"><a href=\"https://github.com/jahopp23/imageportal\">Image Portal - Ruby on Rails 5.0.0 Image Upload, 2016</a></p><p style=\"text-align:center;\"><a href=\"https://github.com/jahopp23/Express_Survey_Form\">ExpressJS Survey Form RESTful Server, 2016</a></p>","metafields":[{"value":"","key":"headline","title":"Headline","type":"text","children":null},{"value":"3044d7c0-9610-11e6-8afd-2319bb61fbf1-fantasy_space-wide.jpg","key":"hero","title":"Hero","type":"file","children":null}],"type_slug":"pages","created":"2016-10-19T15:24:58.084Z","created_at":"2016-10-19T15:24:58.084Z","modified_at":"2018-05-21T17:21:45.897Z","user_id":"5af892858925dc4692f74dca","options":{"content_editor":1,"slug_field":1},"order":5,"status":"published","published_at":"2018-05-21T17:21:45.897Z","modified_by":"5af892858925dc4692f74dca","publish_at":null}],"media":[{"_id":"5afa3ee86327325fd2ab1315","name":"bcb45970-94bb-11e6-b575-65f510fd43cc-Earth-From-Space-Space.jpg","original_name":"Earth-From-Space-Space.jpg","size":337085,"type":"image/jpeg","bucket":"5afa3e56c4f4fe66c8fa15e6","created":"2016-10-17T22:47:52.736Z","folder":null,"location":"https://s3-us-west-2.amazonaws.com/cosmicjs"},{"_id":"5afa3ee86327325fd2ab1316","name":"c3a7fb60-94bb-11e6-b575-65f510fd43cc-Galaxy.jpg","original_name":"Galaxy.jpg","size":476848,"type":"image/jpeg","bucket":"5afa3e56c4f4fe66c8fa15e6","created":"2016-10-17T22:48:04.407Z","folder":null,"location":"https://s3-us-west-2.amazonaws.com/cosmicjs"},{"_id":"5afa3ee86327325fd2ab1317","name":"cbd4e0a0-94bb-11e6-b575-65f510fd43cc-outer-space-1920x1200-hd-wallpaper.jpg","original_name":"outer-space-1920x1200-hd-wallpaper.jpg","size":362706,"type":"image/jpeg","bucket":"5afa3e56c4f4fe66c8fa15e6","created":"2016-10-17T22:48:18.113Z","folder":null,"location":"https://s3-us-west-2.amazonaws.com/cosmicjs"},{"_id":"5afa3ee86327325fd2ab1318","name":"ad347fb0-9575-11e6-b575-65f510fd43cc-kjjX6mj.jpg","original_name":"kjjX6mj.jpg","size":240113,"type":"image/jpeg","bucket":"5afa3e56c4f4fe66c8fa15e6","created":"2016-10-18T20:58:53.232Z","folder":null,"location":"https://s3-us-west-2.amazonaws.com/cosmicjs"},{"_id":"5afa3ee86327325fd2ab1319","name":"3044d7c0-9610-11e6-8afd-2319bb61fbf1-fantasy_space-wide.jpg","original_name":"fantasy_space-wide.jpg","size":1753167,"type":"image/jpeg","bucket":"5afa3e56c4f4fe66c8fa15e6","created":"2016-10-19T15:24:55.557Z","folder":null,"location":"https://s3-us-west-2.amazonaws.com/cosmicjs"},{"_id":"5b020fc88435cd1b1f0acd76","name":"289d3b90-5c8c-11e8-9276-0b00f900a0a0-mexene.png","original_name":"mexene.png","size":1051995,"type":"image/png","bucket":"5afa3e56c4f4fe66c8fa15e6","created":"2018-05-21T00:16:08.283Z","location":"https://s3-us-west-2.amazonaws.com/cosmicjs","folder":null},{"_id":"5afa3ee86327325fd2ab131b","name":"f5dfec00-99fc-11e6-8103-8117827beac1-lightning-32x32.png","original_name":"lightning-32x32.png","size":879,"type":"image/png","bucket":"5afa3e56c4f4fe66c8fa15e6","created":"2016-10-24T15:17:21.741Z","folder":null,"location":"https://s3-us-west-2.amazonaws.com/cosmicjs"},{"_id":"5afa3ee86327325fd2ab131c","name":"1087f520-99fd-11e6-8103-8117827beac1-lightning-16x16.png","original_name":"lightning-16x16.png","size":441,"type":"image/png","bucket":"5afa3e56c4f4fe66c8fa15e6","created":"2016-10-24T15:18:06.467Z","folder":null,"location":"https://s3-us-west-2.amazonaws.com/cosmicjs"},{"_id":"5afa3ee86327325fd2ab131d","name":"01c0c800-9a3e-11e6-8103-8117827beac1-html.jpg","original_name":"html.jpg","size":138568,"type":"image/jpeg","bucket":"5afa3e56c4f4fe66c8fa15e6","created":"2016-10-24T23:02:58.958Z","folder":null,"location":"https://s3-us-west-2.amazonaws.com/cosmicjs"},{"_id":"5b020fc88435cd1b1f0acd77","name":"28bad5b0-5c8c-11e8-9276-0b00f900a0a0-teasdale.png","original_name":"teasdale.png","size":659562,"type":"image/png","bucket":"5afa3e56c4f4fe66c8fa15e6","created":"2018-05-21T00:16:08.453Z","location":"https://s3-us-west-2.amazonaws.com/cosmicjs","folder":null},{"_id":"5b020fc98435cd1b1f0acd78","name":"29144050-5c8c-11e8-9276-0b00f900a0a0-veronicaannphoto.png","original_name":"veronicaannphoto.png","size":589220,"type":"image/png","bucket":"5afa3e56c4f4fe66c8fa15e6","created":"2018-05-21T00:16:09.011Z","location":"https://s3-us-west-2.amazonaws.com/cosmicjs","folder":null},{"_id":"5b02107d7b3d9a1a67bcdf24","name":"94796280-5c8c-11e8-8bba-55a128bf3d26-Screenshot from 2018-05-16 20-01-09.png","original_name":"Screenshot from 2018-05-16 20-01-09.png","size":46928,"type":"image/png","bucket":"5afa3e56c4f4fe66c8fa15e6","created":"2018-05-21T00:19:09.156Z","location":"https://s3-us-west-2.amazonaws.com/cosmicjs","folder":null},{"_id":"5b02107d7b3d9a1a67bcdf25","name":"94865ad0-5c8c-11e8-8bba-55a128bf3d26-Screenshot from 2018-05-16 20-01-32.png","original_name":"Screenshot from 2018-05-16 20-01-32.png","size":33466,"type":"image/png","bucket":"5afa3e56c4f4fe66c8fa15e6","created":"2018-05-21T00:19:09.209Z","location":"https://s3-us-west-2.amazonaws.com/cosmicjs","folder":null},{"_id":"5b021100d48e562d2d0e7a6f","name":"e2b01ed0-5c8c-11e8-8210-85f020a15a45-Screenshot from 2018-01-13 02-34-26.png","original_name":"Screenshot from 2018-01-13 02-34-26.png","size":776612,"type":"image/png","bucket":"5afa3e56c4f4fe66c8fa15e6","created":"2018-05-21T00:21:20.481Z","location":"https://s3-us-west-2.amazonaws.com/cosmicjs","folder":null},{"_id":"5b025d42bb2baa36d4f6c8c8","name":"568c0710-5cba-11e8-b81d-a7f91cfdaf91-John_Hopper_Resume0017.docx","original_name":"John_Hopper_Resume0017.docx","size":11372,"type":"application/vnd.openxmlformats-officedocument.wordprocessingml.document","bucket":"5afa3e56c4f4fe66c8fa15e6","created":"2018-05-21T05:46:42.191Z","location":"https://s3-us-west-2.amazonaws.com/cosmicjs"},{"_id":"5b025d8cbb2baa36d4f6c8c9","name":"82944e30-5cba-11e8-b81d-a7f91cfdaf91-John_Allen_Hopper_Resume_Coding_Web_Developer.docx","original_name":"John_Allen_Hopper_Resume_Coding_Web_Developer.docx","size":11372,"type":"application/vnd.openxmlformats-officedocument.wordprocessingml.document","bucket":"5afa3e56c4f4fe66c8fa15e6","created":"2018-05-21T05:47:56.104Z","location":"https://s3-us-west-2.amazonaws.com/cosmicjs"},{"_id":"5b025e398435cd1b1f0acdcd","name":"e9e23a70-5cba-11e8-9276-0b00f900a0a0-John_Allen_Hopper_Resume_Coding_Web_Developer.zip","original_name":"John_Allen_Hopper_Resume_Coding_Web_Developer.zip","size":11069,"type":"application/zip","bucket":"5afa3e56c4f4fe66c8fa15e6","created":"2018-05-21T05:50:49.313Z","location":"https://s3-us-west-2.amazonaws.com/cosmicjs"},{"_id":"5b025e9bd48e562d2d0e7ade","name":"242a45b0-5cbb-11e8-8210-85f020a15a45-John_Allen_Hopper_Resume_Coding_Web_Developer_05_21_2018.zip","original_name":"John_Allen_Hopper_Resume_Coding_Web_Developer_05_21_2018.zip","size":11069,"type":"application/zip","bucket":"5afa3e56c4f4fe66c8fa15e6","created":"2018-05-21T05:52:27.081Z","location":"https://s3-us-west-2.amazonaws.com/cosmicjs"},{"_id":"5b068d791702dd198dff5a85","name":"6dd23f30-5f39-11e8-b73f-cb1681c50ff2-full-stack-coding.jpg","original_name":"full-stack-coding.jpg","size":268266,"type":"image/jpeg","bucket":"5afa3e56c4f4fe66c8fa15e6","created":"2018-05-24T10:01:29.698Z","location":"https://s3-us-west-2.amazonaws.com/cosmicjs","folder":null}],"media_folders":[],"extensions":[{"id":"4527b010-5ddb-11e8-a928-b105a18314c7","cosmic_extension_id":"592b446e44dfd51023002e9f","title":"Contact Form","image_url":"https://cosmicjs.imgix.net/0acda0e0-49a1-11e7-b871-81d01d81a555-user.jpg?w=800","source_code_url":"https://github.com/cosmicjs/contact-form","url":"https://4527b010-5ddb-11e8-a928-b105a18314c7.cosmicext.com","zip_url":"https://cosmicjs.com/extensions/4527b010-5ddb-11e8-a928-b105a18314c7/src/extension.zip","installed_at":"2018-05-22T16:14:57.966Z","installed_by":"5af892858925dc4692f74dca","font_awesome_class":"fa-envelope-o"},{"id":"226c0bb0-5dff-11e8-8b90-49cb251195d1","cosmic_extension_id":"5aeb13b95958540e8514ea14","title":"Analytics","image_url":"https://cosmic-s3.imgix.net/06868c00-4d55-11e8-b064-e5baad7ec20c-ga.png","source_code_url":"","url":"https://226c0bb0-5dff-11e8-8b90-49cb251195d1.cosmicext.com","zip_url":"https://cosmicjs.com/extensions/226c0bb0-5dff-11e8-8b90-49cb251195d1/src/extension.zip","installed_at":"2018-05-22T20:31:41.388Z","installed_by":"5af892858925dc4692f74dca","font_awesome_class":"fa-bar-chart"}],"thumbnail":null}}
+{
+  "bucket": {
+    "_id": "5afa3e56c4f4fe66c8fa15e6",
+    "slug": "john-allen-hopper",
+    "title": "John Allen Hopper",
+    "object_types": [
+      {
+        "title": "Pages",
+        "slug": "pages",
+        "singular": "Page",
+        "metafields": [
+          {
+            "value": "",
+            "key": "headline",
+            "title": "Headline",
+            "type": "text",
+            "children": null
+          },
+          {
+            "value": "",
+            "key": "hero",
+            "title": "Hero",
+            "type": "file",
+            "children": null
+          }
+        ],
+        "order": 2
+      },
+      {
+        "title": "Globals",
+        "slug": "globals",
+        "singular": "Global",
+        "metafields": [],
+        "order": 1
+      },
+      {
+        "title": "Analytics",
+        "slug": "analytics",
+        "singular": "Analytic",
+        "metafields": [
+          {
+            "title": "View ID",
+            "key": "view_id",
+            "type": "text",
+            "value": ""
+          }
+        ]
+      }
+    ],
+    "links": [],
+    "objects": [
+      {
+        "_id": "5b047c398abdf16a8427a18c",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "slug": "google-analytics-view-id-f88cb480-5dfd-11e8-a1ae-3923d095aa54",
+        "title": "Google Analytics View ID",
+        "content": "",
+        "type_slug": "analytics",
+        "created": "2018-05-22T20:23:21.288Z",
+        "created_at": "2018-05-22T20:23:21.288Z",
+        "options": null,
+        "order": null,
+        "metadata": {
+          "view_id": ""
+        }
+      },
+      {
+        "_id": "5b047e2d7b7b8546805a0c53",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "slug": "google-analytics-view-id-22a25df0-5dff-11e8-8b90-49cb251195d1",
+        "title": "Google Analytics View ID",
+        "content": "",
+        "type_slug": "analytics",
+        "created": "2018-05-22T20:31:41.391Z",
+        "created_at": "2018-05-22T20:31:41.391Z",
+        "options": null,
+        "order": null,
+        "metadata": {
+          "view_id": ""
+        }
+      },
+      {
+        "_id": "5b08c2bd63caba2b776317cd",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "slug": "google-analytics-view-id-5a8fb180-608a-11e8-9834-6745c4dc8966",
+        "title": "Google Analytics View ID",
+        "content": "",
+        "type_slug": "analytics",
+        "created": "2018-05-26T02:13:17.593Z",
+        "created_at": "2018-05-26T02:13:17.593Z",
+        "options": null,
+        "order": null,
+        "metadata": {
+          "view_id": ""
+        }
+      },
+      {
+        "_id": "5b0442018562ee4717b6b24d",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "slug": "contact-form",
+        "title": "Contact Form",
+        "content": "",
+        "type_slug": null,
+        "created": "2018-05-22T16:14:57.969Z",
+        "created_at": "2018-05-22T16:14:57.969Z",
+        "options": null,
+        "order": null,
+        "metadata": {
+          "form_elements": {
+            "name": "",
+            "email": "",
+            "company": "",
+            "message": ""
+          },
+          "submit_button_text": "Submit Form",
+          "success_message_title": "Message sent",
+          "success_message_body": "Thank you for sending your request.  We will be reaching out to you soon!",
+          "success_message_icon": "rocket"
+        }
+      },
+      {
+        "_id": "5b0443a1867400658e8a381b",
+        "slug": "rachel",
+        "title": "rachel",
+        "content": null,
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "type_slug": "form-submissions",
+        "created": "2018-05-22T16:21:53.281Z",
+        "created_at": "2018-05-22T16:21:53.281Z",
+        "modified_at": "2018-05-22T16:21:53.281Z",
+        "status": "published",
+        "locale": null,
+        "published_at": "2018-05-22T16:21:53.281Z",
+        "metadata": {
+          "name": "rachel",
+          "email": "jahopp@gmail.com",
+          "company": "the illuminati",
+          "message": "hello we want you to work for us. "
+        }
+      },
+      {
+        "_id": "5b02603f961c2135841c6277",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "slug": "google-analytics-view-id",
+        "title": "Google Analytics View ID",
+        "content": "",
+        "type_slug": "analytics",
+        "created": "2018-05-21T05:59:27.593Z",
+        "created_at": "2018-05-21T05:59:27.593Z",
+        "options": {
+          "content_editor": 1,
+          "slug_field": 1
+        },
+        "order": null,
+        "modified_at": "2018-05-22T20:47:03.716Z",
+        "modified_by": "5af892858925dc4692f74dca",
+        "status": "published",
+        "publish_at": null,
+        "published_at": "2018-05-22T20:47:03.717Z",
+        "metadata": {
+          "view_id": 175876440
+        }
+      },
+      {
+        "_id": "5b0dcba07e55b214b6998161",
+        "order": 0,
+        "slug": "google16eadc73167e4da0",
+        "title": "google16eadc73167e4da0",
+        "content": "<p>google-site-verification: google16eadc73167e4da0.html</p>",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "type_slug": "pages",
+        "created_at": "2018-05-29T21:52:32.300Z",
+        "created_by": "5af892858925dc4692f74dca",
+        "created": "2018-05-29T21:52:32.300Z",
+        "options": {
+          "content_editor": 1,
+          "slug_field": 1
+        },
+        "status": "published",
+        "published_at": "2018-05-29T22:43:20.281Z",
+        "modified_at": "2018-05-29T22:43:20.281Z",
+        "modified_by": "5af892858925dc4692f74dca",
+        "publish_at": null,
+        "metadata": {
+          "headline": "Google Page",
+          "hero": {
+            "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/",
+            "imgix_url": "https://cosmic-s3.imgix.net/"
+          }
+        }
+      },
+      {
+        "_id": "5afa3ee86327325fd2ab1310",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "slug": "header",
+        "title": "Header",
+        "content": "",
+        "type_slug": "globals",
+        "created": "2016-10-17T22:38:25.011Z",
+        "created_at": "2016-10-17T22:38:25.011Z",
+        "modified_at": "2018-05-21T20:05:21.191Z",
+        "options": {
+          "content_editor": 0,
+          "slug_field": 0
+        },
+        "order": 1,
+        "status": "published",
+        "published_at": "2018-05-21T20:05:21.191Z",
+        "modified_by": "5af892858925dc4692f74dca",
+        "publish_at": null,
+        "metadata": {
+          "nav_links": [
+            {
+              "title": "Home",
+              "link": "/"
+            },
+            {
+              "title": "About",
+              "link": "/about"
+            },
+            {
+              "title": "Portfolio",
+              "link": "/portfolio"
+            },
+            {
+              "title": "Contact",
+              "link": "/contact"
+            },
+            {
+              "blog": "/blog"
+            }
+          ],
+          "site_title": "John Allen Hopper",
+          "favicon_32": {
+            "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/f5dfec00-99fc-11e6-8103-8117827beac1-lightning-32x32.png",
+            "imgix_url": "https://cosmic-s3.imgix.net/f5dfec00-99fc-11e6-8103-8117827beac1-lightning-32x32.png"
+          },
+          "favicon_16": {
+            "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/1087f520-99fd-11e6-8103-8117827beac1-lightning-16x16.png",
+            "imgix_url": "https://cosmic-s3.imgix.net/1087f520-99fd-11e6-8103-8117827beac1-lightning-16x16.png"
+          }
+        }
+      },
+      {
+        "_id": "5b0325fa74885e46e655f9dc",
+        "order": 1,
+        "slug": "blog",
+        "title": "Blog",
+        "content": "<h2>The Future of JavaScript: Behind the Platform of CosmicJS</h2>",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "type_slug": "pages",
+        "created_at": "2018-05-21T20:03:06.850Z",
+        "created_by": "5af892858925dc4692f74dca",
+        "created": "2018-05-21T20:03:06.850Z",
+        "options": {
+          "content_editor": 1,
+          "slug_field": 1
+        },
+        "status": "published",
+        "modified_at": "2018-05-21T20:03:10.300Z",
+        "modified_by": "5af892858925dc4692f74dca",
+        "publish_at": null,
+        "published_at": "2018-05-21T20:03:10.300Z",
+        "metadata": {
+          "headline": "",
+          "hero": {
+            "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/",
+            "imgix_url": "https://cosmic-s3.imgix.net/"
+          }
+        }
+      },
+      {
+        "_id": "5afa3ee86327325fd2ab1312",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "slug": "footer",
+        "title": "Footer",
+        "content": "",
+        "type_slug": "globals",
+        "created": "2016-10-18T18:01:42.625Z",
+        "created_at": "2016-10-18T18:01:42.625Z",
+        "modified_at": "2018-05-24T09:21:00.435Z",
+        "options": {
+          "content_editor": 0,
+          "slug_field": 0
+        },
+        "order": 2,
+        "status": "published",
+        "published_at": "2018-05-24T09:21:00.435Z",
+        "modified_by": "5af892858925dc4692f74dca",
+        "publish_at": null,
+        "metadata": {
+          "company_title": "John Allen Hopper",
+          "github": "https://github.com/jahopp23",
+          "twitter": "https://twitter.com/jahwebulariam",
+          "linkedin": "https://www.linkedin.com/in/john-allen-hopper-874424aa/",
+          "upwork": "https://www.upwork.com/freelancers/~011bad8c95aa82c30e"
+        }
+      },
+      {
+        "_id": "5afa3ee86327325fd2ab130f",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "slug": "home",
+        "title": "Home",
+        "content": "<p>I am a Full Stack Web Developer working in HTML, CSS, JavaScript (React, Next, Express, Angular, Node). It&#39;s my true passion to code the latest in web applications through modern software and creative problem solving. My pursuit to be a coder has\r\nled me to work professionally in a variety of environments, including advertising and online retail.&nbsp;</p><p>I currently am building new web applications for wonderful JavaScript CMS API <a href=\"https://cosmicjs.com/johnallenhopper\">CosmicJS</a>. To learn more, visit the <a href=\"/about\">about</a> page.</p><p>Please visit the <a href=\"/portfolio\">portfolio</a> page to view past projects.</p><div class=\"card\"><div class=\"card-block\"><h4 class=\"card-title\"><br></h4><h4 class=\"card-title\">Full Stack Programming</h4><p class=\"card-text\">Web applications coded through modern frameworks, such as, Node, Angular, React, Rails, as well as, Cloud and API tools.</p></div></div><div class=\"card\"><img class=\"card-img-top fr-fic fr-dii\" src=\"...\" alt=\"\"><h4 class=\"card-title\">UI Design</h4><p class=\"card-text\">Implementation of the latest interface CSS design, Sass compilation, responsiveness, mobile compatibility, and user interactivity.</p></div><div class=\"card\"><img class=\"card-img-top fr-fic fr-dii\" src=\"...\" alt=\"\"><img class=\"card-img-top fr-fic fr-dii\" src=\"...\" alt=\"\"><div class=\"card-block\"><h4 class=\"card-title\">UX Research</h4><p class=\"card-text\">Building effective applications by gearing functionality towards user demands and target audience.</p><p class=\"card-text\"><br></p><p class=\"card-text\"><img src=\"https://cosmic-s3.imgix.net/6dd23f30-5f39-11e8-b73f-cb1681c50ff2-full-stack-coding.jpg\" style=\"width: 100%;\" class=\"fr-fic fr-dib fr-fil\"></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><strong><em>All successful web applications have these in common:&nbsp;</em></strong></p><p><strong>A)&nbsp;</strong>Creatively conceived design strategies backed upon research.</p><p><strong>B)</strong> Clever programming with client or server-side rendering.</p><p><strong>C)</strong> Responsive and interactive user experiences with embedded connectivity.&nbsp;</p></div></div>",
+        "type_slug": "pages",
+        "created": "2016-10-17T22:33:48.542Z",
+        "created_at": "2016-10-17T22:33:48.542Z",
+        "modified_at": "2018-05-29T22:42:37.315Z",
+        "options": {
+          "content_editor": 1,
+          "slug_field": 1
+        },
+        "order": 3,
+        "status": "published",
+        "published_at": "2018-05-29T22:42:37.315Z",
+        "modified_by": "5af892858925dc4692f74dca",
+        "publish_at": null,
+        "metadata": {
+          "headline": "Welcome!",
+          "hero": {
+            "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/bcb45970-94bb-11e6-b575-65f510fd43cc-Earth-From-Space-Space.jpg",
+            "imgix_url": "https://cosmic-s3.imgix.net/bcb45970-94bb-11e6-b575-65f510fd43cc-Earth-From-Space-Space.jpg"
+          },
+          "flash-text": "<h1>JAH</h1><h1>FULL</h1><h1>STACK</h1><h1>WEB</h1>"
+        }
+      },
+      {
+        "_id": "5afa3ee86327325fd2ab1311",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "slug": "about",
+        "title": "About",
+        "content": "<div>At The University of North Texas studying anthropology, my focus was on culture, technology, digital revolution, media, and social change. As my anthropological knowledge increased, as did my interest in computer science, programming, and software. Surely, a social scientist of humanity and culture would make an excellent developer of applications.<br><br>After receiving my B.A. from UNT, I enrolled in a professional software development training program at Coding Dojo Dallas. Here, I learned how to truly construct full stack software applications for the modern web. Using the AGILE development process,\r\nI built web applications &amp; programs in HTML, CSS, Python, JavaScript, and Ruby -- all reliant on MVC architecture, RESTful routes, and responsive web design. During my time at Coding Dojo,\r\nI earned certificates for both HTML/CSS Website Design (Yellow Belt), and Ruby on Rails Full Stack Web Application (Black Belt).&nbsp;</div><p><br></p><p>I have worked as a developer for a local startup company using AngularJS, built website templates for companies with Bootstrap and NodeJS, served as front-end web developer at an award-winning advertising\r\nagency, taught coding/programming to kids K-5th using tools like Scratch and Python, and managed website CMS platforms (Shopify, Amazon, Etsy, Wordpress) for an online retail company. &nbsp;</p><p>I currently am creating web applications for <a href=\"https://cosmicjs.com\">CosmicJS</a> -- a new and wonderful JavaScript CMS API for managing website content and coding native applications.&nbsp;</p><p>&nbsp;All great applications have these in common:&nbsp;</p><p>A) Creatively conceived design strategies backed upon research.</p><p>B) Clever programming with client or server-side rendering.</p><p>C) Responsive and interactive user experiences with embedded connectivity.&nbsp;</p><p><br></p><p>It is my passion to transform new and marketable concepts into reality with programming skill, problem solving, strategy, and teamwork.&nbsp;</p><p data-empty=\"true\"><br></p><h3>Resume</h3><p><a class=\"fr-file\" href=\"https://s3-us-west-2.amazonaws.com/cosmicjs/242a45b0-5cbb-11e8-8210-85f020a15a45-John_Allen_Hopper_Resume_Coding_Web_Developer_05_21_2018.zip\">John_Allen_Hopper_Resume_Coding_Web_Developer_05_21_2018.zip</a></p><p><br></p>",
+        "type_slug": "pages",
+        "created": "2016-10-17T22:34:18.722Z",
+        "created_at": "2016-10-17T22:34:18.722Z",
+        "modified_at": "2018-05-26T07:38:37.665Z",
+        "options": {
+          "content_editor": 1,
+          "slug_field": 1
+        },
+        "order": 4,
+        "status": "published",
+        "published_at": "2018-05-26T07:38:37.665Z",
+        "modified_by": "5af892858925dc4692f74dca",
+        "publish_at": null,
+        "metadata": {
+          "headline": "My Journey Begins...",
+          "hero": {
+            "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/c3a7fb60-94bb-11e6-b575-65f510fd43cc-Galaxy.jpg",
+            "imgix_url": "https://cosmic-s3.imgix.net/c3a7fb60-94bb-11e6-b575-65f510fd43cc-Galaxy.jpg"
+          }
+        }
+      },
+      {
+        "_id": "5afa3ee86327325fd2ab1313",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "slug": "contact",
+        "title": "Contact",
+        "content": "<p>Contact me to collaborate on projects or if you need a web application built. I can help you land safely where you need to be! <br><br>&nbsp;I am seeking job roles in Full Stack Web Development, Front-End Web Development, Application Development, and UI/UX . I am open to full-time, part-time, freelance, and/or remote job roles.&nbsp;</p><p><a href=\"mailto:jahopp@gmail.com?subject=JAH%20Website%20Contact%20Email%20\"><button class=\"btn btn-primary\" type=\"button\">Email Me Directly</button></a>\r\n<a href=\"https://paypal.me/johnallenhopper\"><button class=\"btn btn-success\" type=\"button\">PayPal</button></a></p><p><br></p><p><br></p><h4>Send Contact Form Message</h4><p><iframe src=\"https://4527b010-5ddb-11e8-a928-b105a18314c7.cosmicext.com/?bucket_slug=john-allen-hopper&form=true\" height=\"700\" frameborder=\"0\" width=\"100%\"></iframe></p><p><br></p><p><br></p><p><br></p>",
+        "type_slug": "pages",
+        "created": "2016-10-17T22:35:07.275Z",
+        "created_at": "2016-10-17T22:35:07.275Z",
+        "modified_at": "2018-05-26T06:29:01.798Z",
+        "options": {
+          "content_editor": 1,
+          "slug_field": 1
+        },
+        "order": 5,
+        "status": "published",
+        "published_at": "2018-05-26T06:29:01.798Z",
+        "modified_by": "5af892858925dc4692f74dca",
+        "publish_at": null,
+        "metadata": {
+          "headline": "Contact Me",
+          "hero": {
+            "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/cbd4e0a0-94bb-11e6-b575-65f510fd43cc-outer-space-1920x1200-hd-wallpaper.jpg",
+            "imgix_url": "https://cosmic-s3.imgix.net/cbd4e0a0-94bb-11e6-b575-65f510fd43cc-outer-space-1920x1200-hd-wallpaper.jpg"
+          }
+        }
+      },
+      {
+        "_id": "5afa3ee86327325fd2ab1314",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "slug": "portfolio",
+        "title": "Portfolio",
+        "content": "<p style=\"text-align: center;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style=\"font-size: 12px;\"><img class=\"work-img fr-fic fr-dii\" src=\"https://cosmic-s3.imgix.net/29144050-5c8c-11e8-9276-0b00f900a0a0-veronicaannphoto.png\" style=\"width: 294px;\"></span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: justify;\"><span style=\"font-size: 14px;\">Veronica Ann Photography<br></span></p><p style=\"text-align: justify;\"><span style=\"font-size: 14px;\"><a href=\"https://veronicaannphotography.com\">https://veronicaannphotography.com</a></span></p><p style=\"text-align: justify;\"><span style=\"font-size: 14px;\">Freelance</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 14px;\">HTML5, CSS3, Bootstrap, NodeJS, ExpressJS, NowJS</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 14px;\">2017</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 12px;\"><img src=\"https://cosmic-s3.imgix.net/289d3b90-5c8c-11e8-9276-0b00f900a0a0-mexene.png\" style=\"width: 273px;\" class=\"fr-fic fr-dib\"></span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: justify;\"><span style=\"font-size: 14px;\">Mexene Chili Powder&nbsp;</span></p><p style=\"text-align: justify;\"><a href=\"http://mexene.com\"><span style=\"font-size: 14px;\">https://mexene.com</span></a></p><p style=\"text-align: justify;\"><span style=\"font-size: 14px;\">Johnson &amp; Sekin Advertising Agency</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 14px;\">Front End Web Developer</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 14px;\">2017</span></p><p style=\"text-align: justify;\"><br></p><p><span style=\"font-size: 11px;\"><a href=\"https://mexene.com\"></a></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src=\"https://cosmic-s3.imgix.net/28bad5b0-5c8c-11e8-9276-0b00f900a0a0-teasdale.png\" style=\"width: 316px;\" class=\"fr-fic fr-dib\"></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: justify;\">Teasdale Latin Foods&nbsp;</p><p style=\"text-align: justify;\"><a href=\"https://teasdalelatinfoods.com\"></a><a href=\"http://teasdalelatinfoods.com\">https://teasdalelatinfoods.com</a></p><p style=\"text-align: justify;\">Johnson &amp; Sekin Advertising Agency&nbsp;</p><p style=\"text-align: justify;\">Front End Web Developer</p><p style=\"text-align: justify;\">2017</p><p data-empty=\"true\" style=\"text-align: justify;\"><br></p><p style=\"text-align: center;\"><br></p><p><img src=\"https://cosmic-s3.imgix.net/94796280-5c8c-11e8-8bba-55a128bf3d26-Screenshot from 2018-05-16 20-01-09.png\" style=\"width: 294px;\" class=\"fr-fic fr-dib\"></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: justify;\">SuperGroups - Ruby on Rails Black Belt Exam</p><p style=\"text-align: justify;\"><a href=\"https://github\"></a><a href=\"https://github.com/jahopp23/SuperGroups\">https://github.com/jahopp23/SuperGroups</a></p><p style=\"text-align: justify;\">Coding Dojo&nbsp;</p><p style=\"text-align: justify;\">Ruby on Rails version 5.0.0&nbsp;</p><p style=\"text-align: justify;\">2017</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Additional:&nbsp;</p><p style=\"text-align:center;\"><a href=\"https://github.com/jahopp23/React-Weather-API\">ReactJS Weather API, 2018</a></p><p style=\"text-align:center;\"><a href=\"https://github.com/jahopp23/imageportal\">Image Portal - Ruby on Rails 5.0.0 Image Upload, 2016</a></p><p style=\"text-align:center;\"><a href=\"https://github.com/jahopp23/Express_Survey_Form\">ExpressJS Survey Form RESTful Server, 2016</a></p>",
+        "type_slug": "pages",
+        "created": "2016-10-19T15:24:58.084Z",
+        "created_at": "2016-10-19T15:24:58.084Z",
+        "modified_at": "2018-05-24T16:20:32.743Z",
+        "options": {
+          "content_editor": 1,
+          "slug_field": 1
+        },
+        "order": 6,
+        "status": "published",
+        "published_at": "2018-05-24T16:20:32.743Z",
+        "modified_by": "5af892858925dc4692f74dca",
+        "publish_at": null,
+        "metadata": {
+          "headline": "",
+          "hero": {
+            "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/3044d7c0-9610-11e6-8afd-2319bb61fbf1-fantasy_space-wide.jpg",
+            "imgix_url": "https://cosmic-s3.imgix.net/3044d7c0-9610-11e6-8afd-2319bb61fbf1-fantasy_space-wide.jpg"
+          }
+        }
+      }
+    ],
+    "media": [
+      {
+        "_id": "5afa3ee86327325fd2ab1315",
+        "name": "bcb45970-94bb-11e6-b575-65f510fd43cc-Earth-From-Space-Space.jpg",
+        "original_name": "Earth-From-Space-Space.jpg",
+        "size": 337085,
+        "type": "image/jpeg",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "created": "2016-10-17T22:47:52.736Z",
+        "folder": null,
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/bcb45970-94bb-11e6-b575-65f510fd43cc-Earth-From-Space-Space.jpg",
+        "imgix_url": "https://cosmic-s3.imgix.net/bcb45970-94bb-11e6-b575-65f510fd43cc-Earth-From-Space-Space.jpg"
+      },
+      {
+        "_id": "5afa3ee86327325fd2ab1316",
+        "name": "c3a7fb60-94bb-11e6-b575-65f510fd43cc-Galaxy.jpg",
+        "original_name": "Galaxy.jpg",
+        "size": 476848,
+        "type": "image/jpeg",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "created": "2016-10-17T22:48:04.407Z",
+        "folder": null,
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/c3a7fb60-94bb-11e6-b575-65f510fd43cc-Galaxy.jpg",
+        "imgix_url": "https://cosmic-s3.imgix.net/c3a7fb60-94bb-11e6-b575-65f510fd43cc-Galaxy.jpg"
+      },
+      {
+        "_id": "5afa3ee86327325fd2ab1317",
+        "name": "cbd4e0a0-94bb-11e6-b575-65f510fd43cc-outer-space-1920x1200-hd-wallpaper.jpg",
+        "original_name": "outer-space-1920x1200-hd-wallpaper.jpg",
+        "size": 362706,
+        "type": "image/jpeg",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "created": "2016-10-17T22:48:18.113Z",
+        "folder": null,
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/cbd4e0a0-94bb-11e6-b575-65f510fd43cc-outer-space-1920x1200-hd-wallpaper.jpg",
+        "imgix_url": "https://cosmic-s3.imgix.net/cbd4e0a0-94bb-11e6-b575-65f510fd43cc-outer-space-1920x1200-hd-wallpaper.jpg"
+      },
+      {
+        "_id": "5afa3ee86327325fd2ab1318",
+        "name": "ad347fb0-9575-11e6-b575-65f510fd43cc-kjjX6mj.jpg",
+        "original_name": "kjjX6mj.jpg",
+        "size": 240113,
+        "type": "image/jpeg",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "created": "2016-10-18T20:58:53.232Z",
+        "folder": null,
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/ad347fb0-9575-11e6-b575-65f510fd43cc-kjjX6mj.jpg",
+        "imgix_url": "https://cosmic-s3.imgix.net/ad347fb0-9575-11e6-b575-65f510fd43cc-kjjX6mj.jpg"
+      },
+      {
+        "_id": "5afa3ee86327325fd2ab1319",
+        "name": "3044d7c0-9610-11e6-8afd-2319bb61fbf1-fantasy_space-wide.jpg",
+        "original_name": "fantasy_space-wide.jpg",
+        "size": 1753167,
+        "type": "image/jpeg",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "created": "2016-10-19T15:24:55.557Z",
+        "folder": null,
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/3044d7c0-9610-11e6-8afd-2319bb61fbf1-fantasy_space-wide.jpg",
+        "imgix_url": "https://cosmic-s3.imgix.net/3044d7c0-9610-11e6-8afd-2319bb61fbf1-fantasy_space-wide.jpg"
+      },
+      {
+        "_id": "5b020fc88435cd1b1f0acd76",
+        "name": "289d3b90-5c8c-11e8-9276-0b00f900a0a0-mexene.png",
+        "original_name": "mexene.png",
+        "size": 1051995,
+        "type": "image/png",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "created": "2018-05-21T00:16:08.283Z",
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "folder": null,
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/289d3b90-5c8c-11e8-9276-0b00f900a0a0-mexene.png",
+        "imgix_url": "https://cosmic-s3.imgix.net/289d3b90-5c8c-11e8-9276-0b00f900a0a0-mexene.png"
+      },
+      {
+        "_id": "5afa3ee86327325fd2ab131b",
+        "name": "f5dfec00-99fc-11e6-8103-8117827beac1-lightning-32x32.png",
+        "original_name": "lightning-32x32.png",
+        "size": 879,
+        "type": "image/png",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "created": "2016-10-24T15:17:21.741Z",
+        "folder": null,
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/f5dfec00-99fc-11e6-8103-8117827beac1-lightning-32x32.png",
+        "imgix_url": "https://cosmic-s3.imgix.net/f5dfec00-99fc-11e6-8103-8117827beac1-lightning-32x32.png"
+      },
+      {
+        "_id": "5afa3ee86327325fd2ab131c",
+        "name": "1087f520-99fd-11e6-8103-8117827beac1-lightning-16x16.png",
+        "original_name": "lightning-16x16.png",
+        "size": 441,
+        "type": "image/png",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "created": "2016-10-24T15:18:06.467Z",
+        "folder": null,
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/1087f520-99fd-11e6-8103-8117827beac1-lightning-16x16.png",
+        "imgix_url": "https://cosmic-s3.imgix.net/1087f520-99fd-11e6-8103-8117827beac1-lightning-16x16.png"
+      },
+      {
+        "_id": "5afa3ee86327325fd2ab131d",
+        "name": "01c0c800-9a3e-11e6-8103-8117827beac1-html.jpg",
+        "original_name": "html.jpg",
+        "size": 138568,
+        "type": "image/jpeg",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "created": "2016-10-24T23:02:58.958Z",
+        "folder": null,
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/01c0c800-9a3e-11e6-8103-8117827beac1-html.jpg",
+        "imgix_url": "https://cosmic-s3.imgix.net/01c0c800-9a3e-11e6-8103-8117827beac1-html.jpg"
+      },
+      {
+        "_id": "5b020fc88435cd1b1f0acd77",
+        "name": "28bad5b0-5c8c-11e8-9276-0b00f900a0a0-teasdale.png",
+        "original_name": "teasdale.png",
+        "size": 659562,
+        "type": "image/png",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "created": "2018-05-21T00:16:08.453Z",
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "folder": null,
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/28bad5b0-5c8c-11e8-9276-0b00f900a0a0-teasdale.png",
+        "imgix_url": "https://cosmic-s3.imgix.net/28bad5b0-5c8c-11e8-9276-0b00f900a0a0-teasdale.png"
+      },
+      {
+        "_id": "5b020fc98435cd1b1f0acd78",
+        "name": "29144050-5c8c-11e8-9276-0b00f900a0a0-veronicaannphoto.png",
+        "original_name": "veronicaannphoto.png",
+        "size": 589220,
+        "type": "image/png",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "created": "2018-05-21T00:16:09.011Z",
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "folder": null,
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/29144050-5c8c-11e8-9276-0b00f900a0a0-veronicaannphoto.png",
+        "imgix_url": "https://cosmic-s3.imgix.net/29144050-5c8c-11e8-9276-0b00f900a0a0-veronicaannphoto.png"
+      },
+      {
+        "_id": "5b02107d7b3d9a1a67bcdf24",
+        "name": "94796280-5c8c-11e8-8bba-55a128bf3d26-Screenshot from 2018-05-16 20-01-09.png",
+        "original_name": "Screenshot from 2018-05-16 20-01-09.png",
+        "size": 46928,
+        "type": "image/png",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "created": "2018-05-21T00:19:09.156Z",
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "folder": null,
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/94796280-5c8c-11e8-8bba-55a128bf3d26-Screenshot from 2018-05-16 20-01-09.png",
+        "imgix_url": "https://cosmic-s3.imgix.net/94796280-5c8c-11e8-8bba-55a128bf3d26-Screenshot from 2018-05-16 20-01-09.png"
+      },
+      {
+        "_id": "5b02107d7b3d9a1a67bcdf25",
+        "name": "94865ad0-5c8c-11e8-8bba-55a128bf3d26-Screenshot from 2018-05-16 20-01-32.png",
+        "original_name": "Screenshot from 2018-05-16 20-01-32.png",
+        "size": 33466,
+        "type": "image/png",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "created": "2018-05-21T00:19:09.209Z",
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "folder": null,
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/94865ad0-5c8c-11e8-8bba-55a128bf3d26-Screenshot from 2018-05-16 20-01-32.png",
+        "imgix_url": "https://cosmic-s3.imgix.net/94865ad0-5c8c-11e8-8bba-55a128bf3d26-Screenshot from 2018-05-16 20-01-32.png"
+      },
+      {
+        "_id": "5b021100d48e562d2d0e7a6f",
+        "name": "e2b01ed0-5c8c-11e8-8210-85f020a15a45-Screenshot from 2018-01-13 02-34-26.png",
+        "original_name": "Screenshot from 2018-01-13 02-34-26.png",
+        "size": 776612,
+        "type": "image/png",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "created": "2018-05-21T00:21:20.481Z",
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "folder": null,
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/e2b01ed0-5c8c-11e8-8210-85f020a15a45-Screenshot from 2018-01-13 02-34-26.png",
+        "imgix_url": "https://cosmic-s3.imgix.net/e2b01ed0-5c8c-11e8-8210-85f020a15a45-Screenshot from 2018-01-13 02-34-26.png"
+      },
+      {
+        "_id": "5b025d42bb2baa36d4f6c8c8",
+        "name": "568c0710-5cba-11e8-b81d-a7f91cfdaf91-John_Hopper_Resume0017.docx",
+        "original_name": "John_Hopper_Resume0017.docx",
+        "size": 11372,
+        "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "created": "2018-05-21T05:46:42.191Z",
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/568c0710-5cba-11e8-b81d-a7f91cfdaf91-John_Hopper_Resume0017.docx",
+        "imgix_url": "https://cosmic-s3.imgix.net/568c0710-5cba-11e8-b81d-a7f91cfdaf91-John_Hopper_Resume0017.docx"
+      },
+      {
+        "_id": "5b025d8cbb2baa36d4f6c8c9",
+        "name": "82944e30-5cba-11e8-b81d-a7f91cfdaf91-John_Allen_Hopper_Resume_Coding_Web_Developer.docx",
+        "original_name": "John_Allen_Hopper_Resume_Coding_Web_Developer.docx",
+        "size": 11372,
+        "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "created": "2018-05-21T05:47:56.104Z",
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/82944e30-5cba-11e8-b81d-a7f91cfdaf91-John_Allen_Hopper_Resume_Coding_Web_Developer.docx",
+        "imgix_url": "https://cosmic-s3.imgix.net/82944e30-5cba-11e8-b81d-a7f91cfdaf91-John_Allen_Hopper_Resume_Coding_Web_Developer.docx"
+      },
+      {
+        "_id": "5b025e398435cd1b1f0acdcd",
+        "name": "e9e23a70-5cba-11e8-9276-0b00f900a0a0-John_Allen_Hopper_Resume_Coding_Web_Developer.zip",
+        "original_name": "John_Allen_Hopper_Resume_Coding_Web_Developer.zip",
+        "size": 11069,
+        "type": "application/zip",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "created": "2018-05-21T05:50:49.313Z",
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/e9e23a70-5cba-11e8-9276-0b00f900a0a0-John_Allen_Hopper_Resume_Coding_Web_Developer.zip",
+        "imgix_url": "https://cosmic-s3.imgix.net/e9e23a70-5cba-11e8-9276-0b00f900a0a0-John_Allen_Hopper_Resume_Coding_Web_Developer.zip"
+      },
+      {
+        "_id": "5b025e9bd48e562d2d0e7ade",
+        "name": "242a45b0-5cbb-11e8-8210-85f020a15a45-John_Allen_Hopper_Resume_Coding_Web_Developer_05_21_2018.zip",
+        "original_name": "John_Allen_Hopper_Resume_Coding_Web_Developer_05_21_2018.zip",
+        "size": 11069,
+        "type": "application/zip",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "created": "2018-05-21T05:52:27.081Z",
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/242a45b0-5cbb-11e8-8210-85f020a15a45-John_Allen_Hopper_Resume_Coding_Web_Developer_05_21_2018.zip",
+        "imgix_url": "https://cosmic-s3.imgix.net/242a45b0-5cbb-11e8-8210-85f020a15a45-John_Allen_Hopper_Resume_Coding_Web_Developer_05_21_2018.zip"
+      },
+      {
+        "_id": "5b068d791702dd198dff5a85",
+        "name": "6dd23f30-5f39-11e8-b73f-cb1681c50ff2-full-stack-coding.jpg",
+        "original_name": "full-stack-coding.jpg",
+        "size": 268266,
+        "type": "image/jpeg",
+        "bucket": "5afa3e56c4f4fe66c8fa15e6",
+        "created": "2018-05-24T10:01:29.698Z",
+        "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+        "folder": null,
+        "url": "https://s3-us-west-2.amazonaws.com/cosmicjs/6dd23f30-5f39-11e8-b73f-cb1681c50ff2-full-stack-coding.jpg",
+        "imgix_url": "https://cosmic-s3.imgix.net/6dd23f30-5f39-11e8-b73f-cb1681c50ff2-full-stack-coding.jpg"
+      }
+    ],
+    "media_folders": [],
+    "extensions": [
+      {
+        "id": "4527b010-5ddb-11e8-a928-b105a18314c7",
+        "cosmic_extension_id": "592b446e44dfd51023002e9f",
+        "title": "Contact Form",
+        "image_url": "https://cosmicjs.imgix.net/0acda0e0-49a1-11e7-b871-81d01d81a555-user.jpg?w=800",
+        "source_code_url": "https://github.com/cosmicjs/contact-form",
+        "url": "https://4527b010-5ddb-11e8-a928-b105a18314c7.cosmicext.com",
+        "zip_url": "https://cosmicjs.com/extensions/4527b010-5ddb-11e8-a928-b105a18314c7/src/extension.zip",
+        "installed_at": "2018-05-22T16:14:57.966Z",
+        "installed_by": "5af892858925dc4692f74dca",
+        "font_awesome_class": "fa-envelope-o"
+      },
+      {
+        "id": "5a5eb670-608a-11e8-9834-6745c4dc8966",
+        "cosmic_extension_id": "5aeb13b95958540e8514ea14",
+        "title": "Analytics",
+        "image_url": "https://cosmic-s3.imgix.net/06868c00-4d55-11e8-b064-e5baad7ec20c-ga.png",
+        "source_code_url": "",
+        "url": "https://5a5eb670-608a-11e8-9834-6745c4dc8966.cosmicext.com",
+        "zip_url": "https://cosmicjs.com/extensions/5a5eb670-608a-11e8-9834-6745c4dc8966/src/extension.zip",
+        "installed_at": "2018-05-26T02:13:17.589Z",
+        "installed_by": "5af892858925dc4692f74dca",
+        "font_awesome_class": "fa-bar-chart"
+      }
+    ]
+  }
+}
